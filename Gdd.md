@@ -50,5 +50,7 @@ style.css (arkusz stylów)
 
 script.js (główny skrypt js)
 
-Folder img (grafiki)
+Folder img (grafiki) 
+
+GreenCoin.html (strona)
 
