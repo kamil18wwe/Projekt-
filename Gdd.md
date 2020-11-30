@@ -38,9 +38,16 @@ rozpakować folder
 
 Struktura Katalogu
 
-GreenCoin.html (strona główna)
+GreenCoinMainPage.html (strona główna)
 
 GreenCoinRewards.html (podstrona)
 
-GreenCoinLogin.html (podstrona)
+GreenCoinLogin.html (podstrona) 
+
+GreenCoinRegister (podstrona)
+
+GreenCoinValue (podstrona)
+
+
+
 
