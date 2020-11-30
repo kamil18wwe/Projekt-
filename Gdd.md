@@ -38,19 +38,9 @@ rozpakować folder
 
 Struktura Katalogu
 
-index.php (główny plik aplikacji)
+GreenCoin.html (strona główna)
 
-sec.php (plik z danymi logowania)
+GreenCoinRewards.html (podstrona)
 
-login.php (panel logowania)
-
-register.php (panel rejestracji)
-
-style.css (arkusz stylów)
-
-script.js (główny skrypt js)
-
-Folder img (grafiki) 
-
-GreenCoin.html (strona)
+GreenCoinLogin.html (podstrona)
 
